@@ -68,3 +68,5 @@ fig.autofmt_xdate()
 plt.ylabel("Temperature (F)", fontsize=16)
 plt.legend(["High","Low"], loc = "upper left")
 plt.show()
+
+print("complete")
